@@ -142,37 +142,37 @@ connection.query(req_1, function (error, results) {
 
 connection.query(req_2, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 2 :\n", results)
 });
 
 connection.query(req_3, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 3 :\n", results)
 });
 
 connection.query(req_4, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 4 :\n", results)
 });
 
 connection.query(req_5, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 5 :\n", results)
 });
 
 connection.query(req_6, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 6 :\n", results)
 });
 
 connection.query(req_7, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 7 :\n", results)
 });
 
 connection.query(req_8, function (error, results) {
     if (error) throw error;
-    console.log("\n//////////////////////\nReq 1 :\n", results)
+    console.log("\n//////////////////////\nReq 8 :\n", results)
 });
 
 connection.end()
