@@ -6,7 +6,7 @@ Comment utiliser le programme pour créer la BDD, insérer les données, et affi
 -> https://nodejs.org/en/
 
 2. Installer les packages
--> Se mettre dans le dosser "node_bdd"
+-> Se mettre dans le dosser "clubs_efrei_db_project"
 -> Ouvrir un terminal
 -> Taper la commande "npm install"
 -> Les packages devraient être installés
@@ -32,4 +32,4 @@ Comment utiliser le programme pour créer la BDD, insérer les données, et affi
 -> Taper "npm run vues"
 
 
-FYI : Les fichiers SQL sont dans "node_bdd/sql"
+FYI : Les fichiers SQL sont dans "clubs_efrei_db_project/sql"
