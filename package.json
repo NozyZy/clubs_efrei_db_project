@@ -1,0 +1,22 @@
+{
+  "name": "node_bdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "req": "node requetes.js",
+    "insert": "node insert_values.js",
+    "create": "node create_tables.js",
+    "vues": "node vues.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql8": "^2.17.3"
+  },
+  "devDependencies": {
+    "mysql-import": "^5.0.21"
+  }
+}
